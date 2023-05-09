@@ -1,0 +1,7 @@
+shapely==2.0.1
+vsdx==0.5.13
+pyyaml==6.0
+jsonschema==4.17.3
+deepmerge
+jmespath
+python-magic==0.4.27
